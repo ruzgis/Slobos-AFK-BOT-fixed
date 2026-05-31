@@ -1,20 +1,20 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "TEKAANB",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "TE-smp.aternos.me",
+    "port": 30407,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 222,
     "y": 100,
-    "z": 0
+    "z": 222
   },
   "utils": {
     "auto-auth": {
@@ -28,10 +28,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 60,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "BOK!",
         "I like to play Minecraft!"
       ]
     },
