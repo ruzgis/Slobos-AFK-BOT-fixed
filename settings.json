@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 1,
       "messages": [
         "I'm a regular player",
         "BOK!",
